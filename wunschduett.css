@@ -12,7 +12,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 * "custom" refers to the theme assigned to the poll element
 */
 .custom {
-	background: #000;
+	background: #FFF;
 	width: 400px;
 	transition: opacity 1s;
 	padding: 10px;
