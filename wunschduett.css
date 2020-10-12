@@ -121,7 +121,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	margin-top: 5px;
 }
 .custom .options li .bar .bar-inner {
-	background: #AF0;
+	background: #F00;
 	height: 100%;
 	width: 0;
 	transition: width 1s;
