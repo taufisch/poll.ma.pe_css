@@ -121,7 +121,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	margin-top: 5px;
 }
 .custom .options li .bar .bar-inner {
-	background: #fff;
+	background: #AF0;
 	height: 100%;
 	width: 0;
 	transition: width 1s;
@@ -135,7 +135,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 * Optional outer border
 */
 .custom .border {
-	border: 5px solid red;
+	border: 5px solid green;
 }
 
 
